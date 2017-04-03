@@ -1,0 +1,32 @@
+{
+  "name": "simple-react-grid",
+  "version": "1.0.0",
+  "description": "Simple React Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UthaiahBollera/Simple-React-Grid.git"
+  },
+  "keywords": [
+    "React",
+    "grid",
+    "Simple",
+    "react",
+    "grid",
+    "grid",
+    "custom",
+    "grid",
+    "custom",
+    "react",
+    "grid"
+  ],
+  "author": "bollera.sanju@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UthaiahBollera/Simple-React-Grid/issues"
+  },
+  "homepage": "https://github.com/UthaiahBollera/Simple-React-Grid#readme"
+}
